@@ -1,0 +1,17 @@
+{
+    "name": "vesperlibre-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Mota Italic"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/vesperlibre-bower.git"
+    },
+    "description": "Vesper Libre font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
